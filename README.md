@@ -7,7 +7,7 @@ My penetration testing learning journey
 - Difficulty: Low
 
 ### Step 1 - Extracted all users
-**Payload:**
+markdown**Payload:**
 \```
 1' OR '1'='1' #
 \```
